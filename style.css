@@ -211,3 +211,8 @@ ul.menu{
         margin-top: 180px;
     }
 }
+
+/* contact */
+input{
+  text-transform: lowercase;
+}
